@@ -3,4 +3,7 @@
 	    printf("goodbye world\n");
 	    return 0;
 	}
-	void feature_A() {}
+	void feature_D() {
+		asdadasda
+		
+	}
