@@ -1,6 +1,6 @@
 	#include <stdio.h>
 	int main() {
-	    printf("Hello, Software Engineering!\n");
+	    printf("goodbye world\n");
 	    return 0;
 	}
 	void feature_A() {}
