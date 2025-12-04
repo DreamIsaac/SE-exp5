@@ -4,4 +4,4 @@
 	    printf("goodbye world\n");
 	    return 0;
 	}
-	void feature_B() {}
+	void feature_C() {}
